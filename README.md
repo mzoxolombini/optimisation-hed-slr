@@ -1,0 +1,172 @@
+# Optimisation of Holistically-Nested Edge Detection (HED): A Systematic Literature Review
+
+> **Manuscript:** `SLR_HED___ESWA.pdf`  
+> **Target Journal:** *Expert Systems with Applications* (ESWA)
+
+---
+
+## Overview
+
+This repository supports the systematic literature review (SLR) titled:
+
+> **"Optimisation of Holistically-Nested Edge Detection (HED): A Systematic Literature Review"**
+
+The review critically examines the body of research that extends, improves, and applies **Holistically-Nested Edge Detection (HED)** — a deep-learning-based edge detection framework originally proposed by Xie & Tu (2015) that leverages fully convolutional networks with deeply supervised, multi-scale side outputs fused into a single edge map.
+
+The SLR covers:
+- Architectural modifications and optimisations of HED
+- Integration of HED with complementary deep learning models (U-Net, Mask R-CNN, FCN, CRF, attention mechanisms, etc.)
+- Domain-specific applications of HED across medical imaging, remote sensing, industrial inspection, and more
+- Benchmark datasets and evaluation metrics used in HED research
+- Open challenges and future research directions
+
+---
+
+## Repository Structure
+
+```
+optimisation-hed-slr/
+├── SLR_HED___ESWA.pdf        # Main SLR manuscript (submitted to ESWA)
+└── hed slr/                  # Collection of primary studies reviewed in the SLR
+    ├── *.pdf                 # Reviewed journal and conference papers
+```
+
+---
+
+## Background: Holistically-Nested Edge Detection (HED)
+
+**HED** is a deep-learning architecture for edge and object boundary detection that:
+- Is built on a **VGGNet** backbone with five convolutional stages
+- Produces **multi-scale side outputs** at each stage, each independently supervised
+- Fuses all side outputs via a learned weighted fusion layer into a final edge map
+- Addresses the limitations of traditional hand-crafted edge detectors (Canny, Sobel, etc.) by learning rich hierarchical features
+
+Since its introduction, HED has been adopted and improved in numerous computer vision and image analysis applications, motivating the need for a comprehensive systematic review.
+
+---
+
+## Scope of the Review
+
+The SLR follows a structured protocol (PRISMA/ROSES-inspired) to identify, screen, and synthesise literature on:
+
+| Theme | Description |
+|-------|-------------|
+| **HED Architectures** | Improved HED variants (attention, multi-scale, hybrid models) |
+| **Edge & Contour Detection** | General-purpose edge/boundary detection improvements |
+| **Semantic Segmentation** | HED used to guide or enhance segmentation pipelines |
+| **Medical Imaging** | Organ segmentation, tumour detection, diagnostic support |
+| **Remote Sensing** | Building extraction, sea–land segmentation, change detection |
+| **Industrial Inspection** | Crack detection, workpiece measurement, defect analysis |
+| **Salient Object Detection** | HED applied to saliency detection tasks |
+| **Other Applications** | Agriculture, watermarking, gesture recognition, etc. |
+
+---
+
+## Reviewed Papers
+
+The `hed slr/` directory contains the full corpus of primary studies reviewed. A summary of included papers is listed below:
+
+### Edge Detection & Contour Methods
+- A High-Precision Edge Detection Algorithm Based on Improved Sobel Operator-Assisted HED
+- An Image Edge Detection Algorithm Based on Multi-Feature Fusion
+- Dense Extreme Inception Network: Towards a Robust CNN Model for Edge Detection *(DEXINED)*
+- Improved Edge Detection Model Based on HED
+- Research on Edge Detection Method Based on Improved HED Network
+- Scale-Invariant Salient Edge Detection
+- Improving Edge Detection in RGB Images by Adding NIR Channel
+- Enhancing Deep Edge Detection through Normalized Inputs
+- Advanced Edge Detection for Noisy SEM Images: A Hybrid Approach for Enhanced Precision
+- Edge Detection in Colored Images Using Parallel CNNs and Social Spider Optimization
+- Innovation in Sea–Sky Line Detection
+
+### Semantic Segmentation
+- HED-UNet: A Multi-Scale Framework for Simultaneous Segmentation and Edge Detection
+- Research on Image Semantic Segmentation Algorithm Based on Fully Convolutional HED-CRF
+- Image Semantic Segmentation Fusion of Edge Detection and AFF Attention Mechanism
+- Parallel Fully Convolutional Network for Semantic Segmentation
+- Boundary Enhancement Semantic Segmentation for Building Extraction from Remote Sensed Images
+- A Method to Improve the Accuracy of Pavement Crack Identification by Combining Semantic Segmentation and Edge Detection
+
+### Medical Imaging
+- Automatic Prostate Segmentation on MR Images Using Enhanced Holistically-Nested Networks
+- Prostate Cancer Detection from Multi-institution Multiparametric MRIs
+- Automatic Lymph Node Cluster Segmentation
+- Liver Segmentation from Multimodal Data
+- A Method for the Grading and Recognition of Osteoarthritis X-Ray Images Based on MED-HED Detection
+- Early Breast Cancer Screening from Thermography via Deep Pre-Trained Edge Detection with Extreme Gradient Boosting
+- A Multi-Scale Hybrid Segmentation and MRMR Feature Selection Approach
+- Multi-Magnification Mask R-CNN and HED
+
+### Remote Sensing & Geospatial
+- Sea–Land Segmentation Using HED-UNET for Monitoring
+- HA U-Net: Improved Model for Building Extraction from High-Resolution Remote Sensing Imagery
+- Research on Automatic Recognition Method of Artificial Ground Target Based on Improved HED
+
+### Industrial Inspection & Crack Detection
+- Automated Cement Fragment Image Segmentation
+- Concrete Crack Segmentation Based on Convolution–Deconvolution Feature Fusion with HED
+- Transfer Learning for Cross-Scene 3D Pavement Crack Detection
+- A Method to Improve Pavement Crack Identification by Combining Semantic Segmentation and Edge Detection Model
+- An Improved Method for Cloth Pattern Cutting Based on Holistically-Nested Edge Detection
+- An Online Visual Measurement Method for Workpiece Dimension Based on Deep Learning
+- A Method for Contour Location of Industrial Objects Based on CNN
+- ToolNet (Surgical Tool Detection)
+
+### Agriculture & Biology
+- A Two-Step Phenotypic Parameter Measurement Strategy
+- Machine Learning Algorithm Based Plant Root Contour Extraction in Edge Devices
+
+### Salient Object Detection
+- Deeply Supervised Salient Object Detection with Short Connections *(DSS)*
+- Deep Green Function Convolution for Improving Saliency
+- Fingertip Detection Algorithm Based on Maximum Discrimination HOG Feature in Complex Background
+
+### Other Applications
+- Security Analysis of Digital Image Watermarking
+- Real-Time 3D Scene Understanding
+
+---
+
+## Methodology
+
+The SLR was conducted using a structured and reproducible search protocol:
+
+1. **Search Strategy** — Electronic databases searched include IEEE Xplore, ScienceDirect, Scopus, Web of Science, and Google Scholar using keywords such as *"Holistically-nested edge detection"*, *"HED optimisation"*, *"deep edge detection"*, and related terms.
+2. **Inclusion/Exclusion Criteria** — Studies were included if they directly used, extended, or evaluated HED-based models for image edge/boundary detection or downstream tasks.
+3. **Quality Assessment** — Each included paper was assessed for methodological rigour, reproducibility, and contribution clarity.
+4. **Data Extraction** — Key attributes extracted: model architecture, application domain, dataset, evaluation metrics, and reported performance.
+5. **Synthesis** — Results were synthesised thematically and quantitatively across application domains.
+
+---
+
+## Citation
+
+If you use this repository or the accompanying manuscript in your research, please cite:
+
+```bibtex
+@article{mzoxolombini2024hed_slr,
+  title   = {Optimisation of Holistically-Nested Edge Detection (HED): A Systematic Literature Review},
+  author  = {Mzoxolombini},
+  journal = {Expert Systems with Applications},
+  year    = {2024},
+  note    = {Manuscript submitted for review}
+}
+```
+
+> ⚠️ Please update citation details (author names, year, volume, pages, DOI) once the paper is formally published.
+
+---
+
+## Related Work
+
+- **Original HED Paper:** Xie, S., & Tu, Z. (2015). *Holistically-Nested Edge Detection*. In *Proceedings of the IEEE International Conference on Computer Vision (ICCV)*. [[arXiv]](https://arxiv.org/abs/1504.06375)
+
+---
+
+## License
+
+The manuscript `SLR_HED___ESWA.pdf` is © the respective authors. The reviewed papers in the `hed slr/` folder are included for research reference purposes only and remain the intellectual property of their respective publishers and authors.
+
+---
+
+*Repository maintained by [@mzoxolombini](https://github.com/mzoxolombini)*
