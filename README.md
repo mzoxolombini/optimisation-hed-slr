@@ -139,24 +139,6 @@ The SLR was conducted using a structured and reproducible search protocol:
 
 ---
 
-## Citation
-
-If you use this repository or the accompanying manuscript in your research, please cite:
-
-```bibtex
-@article{mzoxolombini2024hed_slr,
-  title   = {Optimisation of Holistically-Nested Edge Detection (HED): A Systematic Literature Review},
-  author  = {Mzoxolombini},
-  journal = {Expert Systems with Applications},
-  year    = {2024},
-  note    = {Manuscript submitted for review}
-}
-```
-
-> ⚠️ Please update citation details (author names, year, volume, pages, DOI) once the paper is formally published.
-
----
-
 ## Related Work
 
 - **Original HED Paper:** Xie, S., & Tu, Z. (2015). *Holistically-Nested Edge Detection*. In *Proceedings of the IEEE International Conference on Computer Vision (ICCV)*. [[arXiv]](https://arxiv.org/abs/1504.06375)
