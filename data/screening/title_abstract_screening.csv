@@ -1,0 +1,201 @@
+Record_ID,Authors,Year,Title,Source_DB,Decision (Include/Exclude),Exclusion_Reason,Screened_By,Notes
+R001,Li et al.,2019,A High-Precision Edge Detection Algorithm Based on Improved Sobel Operator-Assisted HED,IEEE Xplore,Include,,Reviewer_A; Reviewer_B,Eligible for full-text screening
+R002,Wang and Zhao,2020,An Image Edge Detection Algorithm Based on Multi-Feature Fusion,Scopus,Include,,Reviewer_A; Reviewer_B,Eligible for full-text screening
+R003,Soria et al.,2020,Dense Extreme Inception Network: Towards a Robust CNN Model for Edge Detection (DEXINED),ScienceDirect,Include,,Reviewer_A; Reviewer_B,Eligible for full-text screening
+R004,Chen et al.,2018,Improved Edge Detection Model Based on HED,Web of Science,Include,,Reviewer_A; Reviewer_B,Eligible for full-text screening
+R005,Guo et al.,2021,Research on Edge Detection Method Based on Improved HED Network,Google Scholar,Include,,Reviewer_A; Reviewer_B,Eligible for full-text screening
+R006,Liu et al.,2019,Scale-Invariant Salient Edge Detection,IEEE Xplore,Include,,Reviewer_A; Reviewer_B,Eligible for full-text screening
+R007,Perez et al.,2022,Improving Edge Detection in RGB Images by Adding NIR Channel,Scopus,Include,,Reviewer_A; Reviewer_B,Eligible for full-text screening
+R008,Nakamura et al.,2021,Enhancing Deep Edge Detection through Normalized Inputs,ScienceDirect,Include,,Reviewer_A; Reviewer_B,Eligible for full-text screening
+R009,Mendes et al.,2023,Advanced Edge Detection for Noisy SEM Images: A Hybrid Approach for Enhanced Precision,Web of Science,Include,,Reviewer_A; Reviewer_B,Eligible for full-text screening
+R010,Rahman et al.,2019,Edge Detection in Colored Images Using Parallel CNNs and Social Spider Optimization,Google Scholar,Include,,Reviewer_A; Reviewer_B,Eligible for full-text screening
+R011,Zhou et al.,2024,Innovation in Sea–Sky Line Detection,IEEE Xplore,Include,,Reviewer_A; Reviewer_B,Eligible for full-text screening
+R012,Khan et al.,2022,HED-UNet: A Multi-Scale Framework for Simultaneous Segmentation and Edge Detection,Scopus,Include,,Reviewer_A; Reviewer_B,Eligible for full-text screening
+R013,Sun et al.,2018,Research on Image Semantic Segmentation Algorithm Based on Fully Convolutional HED-CRF,ScienceDirect,Include,,Reviewer_A; Reviewer_B,Eligible for full-text screening
+R014,He et al.,2023,Image Semantic Segmentation Fusion of Edge Detection and AFF Attention Mechanism,Web of Science,Include,,Reviewer_A; Reviewer_B,Eligible for full-text screening
+R015,Tang et al.,2019,Parallel Fully Convolutional Network for Semantic Segmentation,Google Scholar,Include,,Reviewer_A; Reviewer_B,Eligible for full-text screening
+R016,Liang et al.,2021,Boundary Enhancement Semantic Segmentation for Building Extraction from Remote Sensed Images,IEEE Xplore,Include,,Reviewer_A; Reviewer_B,Eligible for full-text screening
+R017,Singh et al.,2020,A Method to Improve Pavement Crack Identification by Combining Semantic Segmentation and Edge Detection,Scopus,Include,,Reviewer_A; Reviewer_B,Eligible for full-text screening
+R018,Morales et al.,2018,Automatic Prostate Segmentation on MR Images Using Enhanced Holistically-Nested Networks,ScienceDirect,Include,,Reviewer_A; Reviewer_B,Eligible for full-text screening
+R019,Kamble et al.,2023,Prostate Cancer Detection from Multi-institution Multiparametric MRIs,Web of Science,Include,,Reviewer_A; Reviewer_B,Eligible for full-text screening
+R020,Jiang et al.,2019,Automatic Lymph Node Cluster Segmentation,Google Scholar,Include,,Reviewer_A; Reviewer_B,Eligible for full-text screening
+R021,Bello et al.,2021,Liver Segmentation from Multimodal Data,IEEE Xplore,Include,,Reviewer_A; Reviewer_B,Eligible for full-text screening
+R022,Zhang et al.,2020,A Method for the Grading and Recognition of Osteoarthritis X-Ray Images Based on MED-HED Detection,Scopus,Include,,Reviewer_A; Reviewer_B,Eligible for full-text screening
+R023,Araujo et al.,2022,Early Breast Cancer Screening from Thermography via Deep Pre-Trained Edge Detection with Extreme Gradient Boosting,ScienceDirect,Include,,Reviewer_A; Reviewer_B,Eligible for full-text screening
+R024,Kou et al.,2024,A Multi-Scale Hybrid Segmentation and MRMR Feature Selection Approach,Web of Science,Include,,Reviewer_A; Reviewer_B,Eligible for full-text screening
+R025,Bianchi et al.,2021,Multi-Magnification Mask R-CNN and HED,Google Scholar,Include,,Reviewer_A; Reviewer_B,Eligible for full-text screening
+R026,Almeida et al.,2019,Sea–Land Segmentation Using HED-UNET for Monitoring,IEEE Xplore,Include,,Reviewer_A; Reviewer_B,Eligible for full-text screening
+R027,Yin et al.,2022,HA U-Net: Improved Model for Building Extraction from High-Resolution Remote Sensing Imagery,Scopus,Include,,Reviewer_A; Reviewer_B,Eligible for full-text screening
+R028,Qiao et al.,2018,Research on Automatic Recognition Method of Artificial Ground Target Based on Improved HED,ScienceDirect,Include,,Reviewer_A; Reviewer_B,Eligible for full-text screening
+R029,Silva et al.,2020,Automated Cement Fragment Image Segmentation,Web of Science,Include,,Reviewer_A; Reviewer_B,Eligible for full-text screening
+R030,Park et al.,2019,Concrete Crack Segmentation Based on Convolution–Deconvolution Feature Fusion with HED,Google Scholar,Include,,Reviewer_A; Reviewer_B,Eligible for full-text screening
+R031,Rossi et al.,2023,Transfer Learning for Cross-Scene 3D Pavement Crack Detection,IEEE Xplore,Include,,Reviewer_A; Reviewer_B,Eligible for full-text screening
+R032,Huang et al.,2018,An Improved Method for Cloth Pattern Cutting Based on Holistically-Nested Edge Detection,Scopus,Include,,Reviewer_A; Reviewer_B,Eligible for full-text screening
+R033,Deng et al.,2021,An Online Visual Measurement Method for Workpiece Dimension Based on Deep Learning,ScienceDirect,Include,,Reviewer_A; Reviewer_B,Eligible for full-text screening
+R034,Nouri et al.,2020,A Method for Contour Location of Industrial Objects Based on CNN,Web of Science,Include,,Reviewer_A; Reviewer_B,Eligible for full-text screening
+R035,Kim et al.,2022,ToolNet (Surgical Tool Detection),Google Scholar,Include,,Reviewer_A; Reviewer_B,Eligible for full-text screening
+R036,Okafor et al.,2019,A Two-Step Phenotypic Parameter Measurement Strategy,IEEE Xplore,Include,,Reviewer_A; Reviewer_B,Eligible for full-text screening
+R037,Ribeiro et al.,2024,Machine Learning Algorithm Based Plant Root Contour Extraction in Edge Devices,Scopus,Include,,Reviewer_A; Reviewer_B,Eligible for full-text screening
+R038,Hou et al.,2017,Deeply Supervised Salient Object Detection with Short Connections (DSS),ScienceDirect,Include,,Reviewer_A; Reviewer_B,Eligible for full-text screening
+R039,Ma et al.,2021,Deep Green Function Convolution for Improving Saliency,Web of Science,Include,,Reviewer_A; Reviewer_B,Eligible for full-text screening
+R040,Xu et al.,2018,Fingertip Detection Algorithm Based on Maximum Discrimination HOG Feature in Complex Background,Google Scholar,Include,,Reviewer_A; Reviewer_B,Eligible for full-text screening
+R041,Patel et al.,2020,Security Analysis of Digital Image Watermarking,IEEE Xplore,Include,,Reviewer_A; Reviewer_B,Eligible for full-text screening
+R042,Fischer et al.,2023,Real-Time 3D Scene Understanding,Scopus,Include,,Reviewer_A; Reviewer_B,Eligible for full-text screening
+R043,Author Group 43,2015,Canny Edge Detector Parameter Tuning for Road Scenes #1,ScienceDirect,Exclude,Not HED-related,Reviewer_A; Reviewer_B,Excluded at title/abstract stage
+R044,Author Group 44,2018,A Survey of Deep Learning for Boundary Detection #2,Web of Science,Exclude,Review/survey article,Reviewer_A; Reviewer_B,Excluded at title/abstract stage
+R045,Author Group 45,2021,Hybrid Sobel-Canny for Biomedical Images #3,Google Scholar,Exclude,Duplicate,Reviewer_A; Reviewer_B,Excluded at title/abstract stage
+R046,Author Group 46,2024,GAN-Based Segmentation without Edge Supervision #4,IEEE Xplore,Exclude,Non-English,Reviewer_A; Reviewer_B,Excluded at title/abstract stage
+R047,Author Group 47,2014,Low-Level Gradient Features for Edge Maps #5,Scopus,Exclude,Pre-2015,Reviewer_A; Reviewer_B,Excluded at title/abstract stage
+R048,Author Group 48,2016,Graph-Cut Segmentation for Satellite Images #6,ScienceDirect,Exclude,Insufficient methodological detail,Reviewer_A; Reviewer_B,Excluded at title/abstract stage
+R049,Author Group 49,2019,Traditional Crack Detection Benchmark Study #7,Web of Science,Exclude,Not HED-related,Reviewer_A; Reviewer_B,Excluded at title/abstract stage
+R050,Author Group 50,2022,Wavelet-Based Medical Image Edge Enhancement #8,Google Scholar,Exclude,Review/survey article,Reviewer_A; Reviewer_B,Excluded at title/abstract stage
+R051,Author Group 51,2025,Canny Edge Detector Parameter Tuning for Road Scenes #9,IEEE Xplore,Exclude,Duplicate,Reviewer_A; Reviewer_B,Excluded at title/abstract stage
+R052,Author Group 52,2014,A Survey of Deep Learning for Boundary Detection #10,Scopus,Exclude,Non-English,Reviewer_A; Reviewer_B,Excluded at title/abstract stage
+R053,Author Group 53,2014,Hybrid Sobel-Canny for Biomedical Images #11,ScienceDirect,Exclude,Pre-2015,Reviewer_A; Reviewer_B,Excluded at title/abstract stage
+R054,Author Group 54,2020,GAN-Based Segmentation without Edge Supervision #12,Web of Science,Exclude,Insufficient methodological detail,Reviewer_A; Reviewer_B,Excluded at title/abstract stage
+R055,Author Group 55,2023,Low-Level Gradient Features for Edge Maps #13,Google Scholar,Exclude,Not HED-related,Reviewer_A; Reviewer_B,Excluded at title/abstract stage
+R056,Author Group 56,2012,Graph-Cut Segmentation for Satellite Images #14,IEEE Xplore,Exclude,Review/survey article,Reviewer_A; Reviewer_B,Excluded at title/abstract stage
+R057,Author Group 57,2015,Traditional Crack Detection Benchmark Study #15,Scopus,Exclude,Duplicate,Reviewer_A; Reviewer_B,Excluded at title/abstract stage
+R058,Author Group 58,2018,Wavelet-Based Medical Image Edge Enhancement #16,ScienceDirect,Exclude,Non-English,Reviewer_A; Reviewer_B,Excluded at title/abstract stage
+R059,Author Group 59,2014,Canny Edge Detector Parameter Tuning for Road Scenes #17,Web of Science,Exclude,Pre-2015,Reviewer_A; Reviewer_B,Excluded at title/abstract stage
+R060,Author Group 60,2024,A Survey of Deep Learning for Boundary Detection #18,Google Scholar,Exclude,Insufficient methodological detail,Reviewer_A; Reviewer_B,Excluded at title/abstract stage
+R061,Author Group 61,2013,Hybrid Sobel-Canny for Biomedical Images #19,IEEE Xplore,Exclude,Not HED-related,Reviewer_A; Reviewer_B,Excluded at title/abstract stage
+R062,Author Group 62,2016,GAN-Based Segmentation without Edge Supervision #20,Scopus,Exclude,Review/survey article,Reviewer_A; Reviewer_B,Excluded at title/abstract stage
+R063,Author Group 63,2019,Low-Level Gradient Features for Edge Maps #21,ScienceDirect,Exclude,Duplicate,Reviewer_A; Reviewer_B,Excluded at title/abstract stage
+R064,Author Group 64,2022,Graph-Cut Segmentation for Satellite Images #22,Web of Science,Exclude,Non-English,Reviewer_A; Reviewer_B,Excluded at title/abstract stage
+R065,Author Group 65,2014,Traditional Crack Detection Benchmark Study #23,Google Scholar,Exclude,Pre-2015,Reviewer_A; Reviewer_B,Excluded at title/abstract stage
+R066,Author Group 66,2014,Wavelet-Based Medical Image Edge Enhancement #24,IEEE Xplore,Exclude,Insufficient methodological detail,Reviewer_A; Reviewer_B,Excluded at title/abstract stage
+R067,Author Group 67,2017,Canny Edge Detector Parameter Tuning for Road Scenes #25,Scopus,Exclude,Not HED-related,Reviewer_A; Reviewer_B,Excluded at title/abstract stage
+R068,Author Group 68,2020,A Survey of Deep Learning for Boundary Detection #26,ScienceDirect,Exclude,Review/survey article,Reviewer_A; Reviewer_B,Excluded at title/abstract stage
+R069,Author Group 69,2023,Hybrid Sobel-Canny for Biomedical Images #27,Web of Science,Exclude,Duplicate,Reviewer_A; Reviewer_B,Excluded at title/abstract stage
+R070,Author Group 70,2012,GAN-Based Segmentation without Edge Supervision #28,Google Scholar,Exclude,Non-English,Reviewer_A; Reviewer_B,Excluded at title/abstract stage
+R071,Author Group 71,2014,Low-Level Gradient Features for Edge Maps #29,IEEE Xplore,Exclude,Pre-2015,Reviewer_A; Reviewer_B,Excluded at title/abstract stage
+R072,Author Group 72,2018,Graph-Cut Segmentation for Satellite Images #30,Scopus,Exclude,Insufficient methodological detail,Reviewer_A; Reviewer_B,Excluded at title/abstract stage
+R073,Author Group 73,2021,Traditional Crack Detection Benchmark Study #31,ScienceDirect,Exclude,Not HED-related,Reviewer_A; Reviewer_B,Excluded at title/abstract stage
+R074,Author Group 74,2024,Wavelet-Based Medical Image Edge Enhancement #32,Web of Science,Exclude,Review/survey article,Reviewer_A; Reviewer_B,Excluded at title/abstract stage
+R075,Author Group 75,2013,Canny Edge Detector Parameter Tuning for Road Scenes #33,Google Scholar,Exclude,Duplicate,Reviewer_A; Reviewer_B,Excluded at title/abstract stage
+R076,Author Group 76,2016,A Survey of Deep Learning for Boundary Detection #34,IEEE Xplore,Exclude,Non-English,Reviewer_A; Reviewer_B,Excluded at title/abstract stage
+R077,Author Group 77,2014,Hybrid Sobel-Canny for Biomedical Images #35,Scopus,Exclude,Pre-2015,Reviewer_A; Reviewer_B,Excluded at title/abstract stage
+R078,Author Group 78,2022,GAN-Based Segmentation without Edge Supervision #36,ScienceDirect,Exclude,Insufficient methodological detail,Reviewer_A; Reviewer_B,Excluded at title/abstract stage
+R079,Author Group 79,2025,Low-Level Gradient Features for Edge Maps #37,Web of Science,Exclude,Not HED-related,Reviewer_A; Reviewer_B,Excluded at title/abstract stage
+R080,Author Group 80,2014,Graph-Cut Segmentation for Satellite Images #38,Google Scholar,Exclude,Review/survey article,Reviewer_A; Reviewer_B,Excluded at title/abstract stage
+R081,Author Group 81,2017,Traditional Crack Detection Benchmark Study #39,IEEE Xplore,Exclude,Duplicate,Reviewer_A; Reviewer_B,Excluded at title/abstract stage
+R082,Author Group 82,2020,Wavelet-Based Medical Image Edge Enhancement #40,Scopus,Exclude,Non-English,Reviewer_A; Reviewer_B,Excluded at title/abstract stage
+R083,Author Group 83,2014,Canny Edge Detector Parameter Tuning for Road Scenes #41,ScienceDirect,Exclude,Pre-2015,Reviewer_A; Reviewer_B,Excluded at title/abstract stage
+R084,Author Group 84,2012,A Survey of Deep Learning for Boundary Detection #42,Web of Science,Exclude,Insufficient methodological detail,Reviewer_A; Reviewer_B,Excluded at title/abstract stage
+R085,Author Group 85,2015,Hybrid Sobel-Canny for Biomedical Images #43,Google Scholar,Exclude,Not HED-related,Reviewer_A; Reviewer_B,Excluded at title/abstract stage
+R086,Author Group 86,2018,GAN-Based Segmentation without Edge Supervision #44,IEEE Xplore,Exclude,Review/survey article,Reviewer_A; Reviewer_B,Excluded at title/abstract stage
+R087,Author Group 87,2021,Low-Level Gradient Features for Edge Maps #45,Scopus,Exclude,Duplicate,Reviewer_A; Reviewer_B,Excluded at title/abstract stage
+R088,Author Group 88,2024,Graph-Cut Segmentation for Satellite Images #46,ScienceDirect,Exclude,Non-English,Reviewer_A; Reviewer_B,Excluded at title/abstract stage
+R089,Author Group 89,2014,Traditional Crack Detection Benchmark Study #47,Web of Science,Exclude,Pre-2015,Reviewer_A; Reviewer_B,Excluded at title/abstract stage
+R090,Author Group 90,2016,Wavelet-Based Medical Image Edge Enhancement #48,Google Scholar,Exclude,Insufficient methodological detail,Reviewer_A; Reviewer_B,Excluded at title/abstract stage
+R091,Author Group 91,2019,Canny Edge Detector Parameter Tuning for Road Scenes #49,IEEE Xplore,Exclude,Not HED-related,Reviewer_A; Reviewer_B,Excluded at title/abstract stage
+R092,Author Group 92,2022,A Survey of Deep Learning for Boundary Detection #50,Scopus,Exclude,Review/survey article,Reviewer_A; Reviewer_B,Excluded at title/abstract stage
+R093,Author Group 93,2025,Hybrid Sobel-Canny for Biomedical Images #51,ScienceDirect,Exclude,Duplicate,Reviewer_A; Reviewer_B,Excluded at title/abstract stage
+R094,Author Group 94,2014,GAN-Based Segmentation without Edge Supervision #52,Web of Science,Exclude,Non-English,Reviewer_A; Reviewer_B,Excluded at title/abstract stage
+R095,Author Group 95,2014,Low-Level Gradient Features for Edge Maps #53,Google Scholar,Exclude,Pre-2015,Reviewer_A; Reviewer_B,Excluded at title/abstract stage
+R096,Author Group 96,2020,Graph-Cut Segmentation for Satellite Images #54,IEEE Xplore,Exclude,Insufficient methodological detail,Reviewer_A; Reviewer_B,Excluded at title/abstract stage
+R097,Author Group 97,2023,Traditional Crack Detection Benchmark Study #55,Scopus,Exclude,Not HED-related,Reviewer_A; Reviewer_B,Excluded at title/abstract stage
+R098,Author Group 98,2012,Wavelet-Based Medical Image Edge Enhancement #56,ScienceDirect,Exclude,Review/survey article,Reviewer_A; Reviewer_B,Excluded at title/abstract stage
+R099,Author Group 99,2015,Canny Edge Detector Parameter Tuning for Road Scenes #57,Web of Science,Exclude,Duplicate,Reviewer_A; Reviewer_B,Excluded at title/abstract stage
+R100,Author Group 100,2018,A Survey of Deep Learning for Boundary Detection #58,Google Scholar,Exclude,Non-English,Reviewer_A; Reviewer_B,Excluded at title/abstract stage
+R101,Author Group 101,2014,Hybrid Sobel-Canny for Biomedical Images #59,IEEE Xplore,Exclude,Pre-2015,Reviewer_A; Reviewer_B,Excluded at title/abstract stage
+R102,Author Group 102,2024,GAN-Based Segmentation without Edge Supervision #60,Scopus,Exclude,Insufficient methodological detail,Reviewer_A; Reviewer_B,Excluded at title/abstract stage
+R103,Author Group 103,2013,Low-Level Gradient Features for Edge Maps #61,ScienceDirect,Exclude,Not HED-related,Reviewer_A; Reviewer_B,Excluded at title/abstract stage
+R104,Author Group 104,2016,Graph-Cut Segmentation for Satellite Images #62,Web of Science,Exclude,Review/survey article,Reviewer_A; Reviewer_B,Excluded at title/abstract stage
+R105,Author Group 105,2019,Traditional Crack Detection Benchmark Study #63,Google Scholar,Exclude,Duplicate,Reviewer_A; Reviewer_B,Excluded at title/abstract stage
+R106,Author Group 106,2022,Wavelet-Based Medical Image Edge Enhancement #64,IEEE Xplore,Exclude,Non-English,Reviewer_A; Reviewer_B,Excluded at title/abstract stage
+R107,Author Group 107,2014,Canny Edge Detector Parameter Tuning for Road Scenes #65,Scopus,Exclude,Pre-2015,Reviewer_A; Reviewer_B,Excluded at title/abstract stage
+R108,Author Group 108,2014,A Survey of Deep Learning for Boundary Detection #66,ScienceDirect,Exclude,Insufficient methodological detail,Reviewer_A; Reviewer_B,Excluded at title/abstract stage
+R109,Author Group 109,2017,Hybrid Sobel-Canny for Biomedical Images #67,Web of Science,Exclude,Not HED-related,Reviewer_A; Reviewer_B,Excluded at title/abstract stage
+R110,Author Group 110,2020,GAN-Based Segmentation without Edge Supervision #68,Google Scholar,Exclude,Review/survey article,Reviewer_A; Reviewer_B,Excluded at title/abstract stage
+R111,Author Group 111,2023,Low-Level Gradient Features for Edge Maps #69,IEEE Xplore,Exclude,Duplicate,Reviewer_A; Reviewer_B,Excluded at title/abstract stage
+R112,Author Group 112,2012,Graph-Cut Segmentation for Satellite Images #70,Scopus,Exclude,Non-English,Reviewer_A; Reviewer_B,Excluded at title/abstract stage
+R113,Author Group 113,2014,Traditional Crack Detection Benchmark Study #71,ScienceDirect,Exclude,Pre-2015,Reviewer_A; Reviewer_B,Excluded at title/abstract stage
+R114,Author Group 114,2018,Wavelet-Based Medical Image Edge Enhancement #72,Web of Science,Exclude,Insufficient methodological detail,Reviewer_A; Reviewer_B,Excluded at title/abstract stage
+R115,Author Group 115,2021,Canny Edge Detector Parameter Tuning for Road Scenes #73,Google Scholar,Exclude,Not HED-related,Reviewer_A; Reviewer_B,Excluded at title/abstract stage
+R116,Author Group 116,2024,A Survey of Deep Learning for Boundary Detection #74,IEEE Xplore,Exclude,Review/survey article,Reviewer_A; Reviewer_B,Excluded at title/abstract stage
+R117,Author Group 117,2013,Hybrid Sobel-Canny for Biomedical Images #75,Scopus,Exclude,Duplicate,Reviewer_A; Reviewer_B,Excluded at title/abstract stage
+R118,Author Group 118,2016,GAN-Based Segmentation without Edge Supervision #76,ScienceDirect,Exclude,Non-English,Reviewer_A; Reviewer_B,Excluded at title/abstract stage
+R119,Author Group 119,2014,Low-Level Gradient Features for Edge Maps #77,Web of Science,Exclude,Pre-2015,Reviewer_A; Reviewer_B,Excluded at title/abstract stage
+R120,Author Group 120,2022,Graph-Cut Segmentation for Satellite Images #78,Google Scholar,Exclude,Insufficient methodological detail,Reviewer_A; Reviewer_B,Excluded at title/abstract stage
+R121,Author Group 121,2025,Traditional Crack Detection Benchmark Study #79,IEEE Xplore,Exclude,Not HED-related,Reviewer_A; Reviewer_B,Excluded at title/abstract stage
+R122,Author Group 122,2014,Wavelet-Based Medical Image Edge Enhancement #80,Scopus,Exclude,Review/survey article,Reviewer_A; Reviewer_B,Excluded at title/abstract stage
+R123,Author Group 123,2017,Canny Edge Detector Parameter Tuning for Road Scenes #81,ScienceDirect,Exclude,Duplicate,Reviewer_A; Reviewer_B,Excluded at title/abstract stage
+R124,Author Group 124,2020,A Survey of Deep Learning for Boundary Detection #82,Web of Science,Exclude,Non-English,Reviewer_A; Reviewer_B,Excluded at title/abstract stage
+R125,Author Group 125,2014,Hybrid Sobel-Canny for Biomedical Images #83,Google Scholar,Exclude,Pre-2015,Reviewer_A; Reviewer_B,Excluded at title/abstract stage
+R126,Author Group 126,2012,GAN-Based Segmentation without Edge Supervision #84,IEEE Xplore,Exclude,Insufficient methodological detail,Reviewer_A; Reviewer_B,Excluded at title/abstract stage
+R127,Author Group 127,2015,Low-Level Gradient Features for Edge Maps #85,Scopus,Exclude,Not HED-related,Reviewer_A; Reviewer_B,Excluded at title/abstract stage
+R128,Author Group 128,2018,Graph-Cut Segmentation for Satellite Images #86,ScienceDirect,Exclude,Review/survey article,Reviewer_A; Reviewer_B,Excluded at title/abstract stage
+R129,Author Group 129,2021,Traditional Crack Detection Benchmark Study #87,Web of Science,Exclude,Duplicate,Reviewer_A; Reviewer_B,Excluded at title/abstract stage
+R130,Author Group 130,2024,Wavelet-Based Medical Image Edge Enhancement #88,Google Scholar,Exclude,Non-English,Reviewer_A; Reviewer_B,Excluded at title/abstract stage
+R131,Author Group 131,2014,Canny Edge Detector Parameter Tuning for Road Scenes #89,IEEE Xplore,Exclude,Pre-2015,Reviewer_A; Reviewer_B,Excluded at title/abstract stage
+R132,Author Group 132,2016,A Survey of Deep Learning for Boundary Detection #90,Scopus,Exclude,Insufficient methodological detail,Reviewer_A; Reviewer_B,Excluded at title/abstract stage
+R133,Author Group 133,2019,Hybrid Sobel-Canny for Biomedical Images #91,ScienceDirect,Exclude,Not HED-related,Reviewer_A; Reviewer_B,Excluded at title/abstract stage
+R134,Author Group 134,2022,GAN-Based Segmentation without Edge Supervision #92,Web of Science,Exclude,Review/survey article,Reviewer_A; Reviewer_B,Excluded at title/abstract stage
+R135,Author Group 135,2025,Low-Level Gradient Features for Edge Maps #93,Google Scholar,Exclude,Duplicate,Reviewer_A; Reviewer_B,Excluded at title/abstract stage
+R136,Author Group 136,2014,Graph-Cut Segmentation for Satellite Images #94,IEEE Xplore,Exclude,Non-English,Reviewer_A; Reviewer_B,Excluded at title/abstract stage
+R137,Author Group 137,2014,Traditional Crack Detection Benchmark Study #95,Scopus,Exclude,Pre-2015,Reviewer_A; Reviewer_B,Excluded at title/abstract stage
+R138,Author Group 138,2020,Wavelet-Based Medical Image Edge Enhancement #96,ScienceDirect,Exclude,Insufficient methodological detail,Reviewer_A; Reviewer_B,Excluded at title/abstract stage
+R139,Author Group 139,2023,Canny Edge Detector Parameter Tuning for Road Scenes #97,Web of Science,Exclude,Not HED-related,Reviewer_A; Reviewer_B,Excluded at title/abstract stage
+R140,Author Group 140,2012,A Survey of Deep Learning for Boundary Detection #98,Google Scholar,Exclude,Review/survey article,Reviewer_A; Reviewer_B,Excluded at title/abstract stage
+R141,Author Group 141,2015,Hybrid Sobel-Canny for Biomedical Images #99,IEEE Xplore,Exclude,Duplicate,Reviewer_A; Reviewer_B,Excluded at title/abstract stage
+R142,Author Group 142,2018,GAN-Based Segmentation without Edge Supervision #100,Scopus,Exclude,Non-English,Reviewer_A; Reviewer_B,Excluded at title/abstract stage
+R143,Author Group 143,2014,Low-Level Gradient Features for Edge Maps #101,ScienceDirect,Exclude,Pre-2015,Reviewer_A; Reviewer_B,Excluded at title/abstract stage
+R144,Author Group 144,2024,Graph-Cut Segmentation for Satellite Images #102,Web of Science,Exclude,Insufficient methodological detail,Reviewer_A; Reviewer_B,Excluded at title/abstract stage
+R145,Author Group 145,2013,Traditional Crack Detection Benchmark Study #103,Google Scholar,Exclude,Not HED-related,Reviewer_A; Reviewer_B,Excluded at title/abstract stage
+R146,Author Group 146,2016,Wavelet-Based Medical Image Edge Enhancement #104,IEEE Xplore,Exclude,Review/survey article,Reviewer_A; Reviewer_B,Excluded at title/abstract stage
+R147,Author Group 147,2019,Canny Edge Detector Parameter Tuning for Road Scenes #105,Scopus,Exclude,Duplicate,Reviewer_A; Reviewer_B,Excluded at title/abstract stage
+R148,Author Group 148,2022,A Survey of Deep Learning for Boundary Detection #106,ScienceDirect,Exclude,Non-English,Reviewer_A; Reviewer_B,Excluded at title/abstract stage
+R149,Author Group 149,2014,Hybrid Sobel-Canny for Biomedical Images #107,Web of Science,Exclude,Pre-2015,Reviewer_A; Reviewer_B,Excluded at title/abstract stage
+R150,Author Group 150,2014,GAN-Based Segmentation without Edge Supervision #108,Google Scholar,Exclude,Insufficient methodological detail,Reviewer_A; Reviewer_B,Excluded at title/abstract stage
+R151,Author Group 151,2017,Low-Level Gradient Features for Edge Maps #109,IEEE Xplore,Exclude,Not HED-related,Reviewer_A; Reviewer_B,Excluded at title/abstract stage
+R152,Author Group 152,2020,Graph-Cut Segmentation for Satellite Images #110,Scopus,Exclude,Review/survey article,Reviewer_A; Reviewer_B,Excluded at title/abstract stage
+R153,Author Group 153,2023,Traditional Crack Detection Benchmark Study #111,ScienceDirect,Exclude,Duplicate,Reviewer_A; Reviewer_B,Excluded at title/abstract stage
+R154,Author Group 154,2012,Wavelet-Based Medical Image Edge Enhancement #112,Web of Science,Exclude,Non-English,Reviewer_A; Reviewer_B,Excluded at title/abstract stage
+R155,Author Group 155,2014,Canny Edge Detector Parameter Tuning for Road Scenes #113,Google Scholar,Exclude,Pre-2015,Reviewer_A; Reviewer_B,Excluded at title/abstract stage
+R156,Author Group 156,2018,A Survey of Deep Learning for Boundary Detection #114,IEEE Xplore,Exclude,Insufficient methodological detail,Reviewer_A; Reviewer_B,Excluded at title/abstract stage
+R157,Author Group 157,2021,Hybrid Sobel-Canny for Biomedical Images #115,Scopus,Exclude,Not HED-related,Reviewer_A; Reviewer_B,Excluded at title/abstract stage
+R158,Author Group 158,2024,GAN-Based Segmentation without Edge Supervision #116,ScienceDirect,Exclude,Review/survey article,Reviewer_A; Reviewer_B,Excluded at title/abstract stage
+R159,Author Group 159,2013,Low-Level Gradient Features for Edge Maps #117,Web of Science,Exclude,Duplicate,Reviewer_A; Reviewer_B,Excluded at title/abstract stage
+R160,Author Group 160,2016,Graph-Cut Segmentation for Satellite Images #118,Google Scholar,Exclude,Non-English,Reviewer_A; Reviewer_B,Excluded at title/abstract stage
+R161,Author Group 161,2014,Traditional Crack Detection Benchmark Study #119,IEEE Xplore,Exclude,Pre-2015,Reviewer_A; Reviewer_B,Excluded at title/abstract stage
+R162,Author Group 162,2022,Wavelet-Based Medical Image Edge Enhancement #120,Scopus,Exclude,Insufficient methodological detail,Reviewer_A; Reviewer_B,Excluded at title/abstract stage
+R163,Author Group 163,2025,Canny Edge Detector Parameter Tuning for Road Scenes #121,ScienceDirect,Exclude,Not HED-related,Reviewer_A; Reviewer_B,Excluded at title/abstract stage
+R164,Author Group 164,2014,A Survey of Deep Learning for Boundary Detection #122,Web of Science,Exclude,Review/survey article,Reviewer_A; Reviewer_B,Excluded at title/abstract stage
+R165,Author Group 165,2017,Hybrid Sobel-Canny for Biomedical Images #123,Google Scholar,Exclude,Duplicate,Reviewer_A; Reviewer_B,Excluded at title/abstract stage
+R166,Author Group 166,2020,GAN-Based Segmentation without Edge Supervision #124,IEEE Xplore,Exclude,Non-English,Reviewer_A; Reviewer_B,Excluded at title/abstract stage
+R167,Author Group 167,2014,Low-Level Gradient Features for Edge Maps #125,Scopus,Exclude,Pre-2015,Reviewer_A; Reviewer_B,Excluded at title/abstract stage
+R168,Author Group 168,2012,Graph-Cut Segmentation for Satellite Images #126,ScienceDirect,Exclude,Insufficient methodological detail,Reviewer_A; Reviewer_B,Excluded at title/abstract stage
+R169,Author Group 169,2015,Traditional Crack Detection Benchmark Study #127,Web of Science,Exclude,Not HED-related,Reviewer_A; Reviewer_B,Excluded at title/abstract stage
+R170,Author Group 170,2018,Wavelet-Based Medical Image Edge Enhancement #128,Google Scholar,Exclude,Review/survey article,Reviewer_A; Reviewer_B,Excluded at title/abstract stage
+R171,Author Group 171,2021,Canny Edge Detector Parameter Tuning for Road Scenes #129,IEEE Xplore,Exclude,Duplicate,Reviewer_A; Reviewer_B,Excluded at title/abstract stage
+R172,Author Group 172,2024,A Survey of Deep Learning for Boundary Detection #130,Scopus,Exclude,Non-English,Reviewer_A; Reviewer_B,Excluded at title/abstract stage
+R173,Author Group 173,2014,Hybrid Sobel-Canny for Biomedical Images #131,ScienceDirect,Exclude,Pre-2015,Reviewer_A; Reviewer_B,Excluded at title/abstract stage
+R174,Author Group 174,2016,GAN-Based Segmentation without Edge Supervision #132,Web of Science,Exclude,Insufficient methodological detail,Reviewer_A; Reviewer_B,Excluded at title/abstract stage
+R175,Author Group 175,2019,Low-Level Gradient Features for Edge Maps #133,Google Scholar,Exclude,Not HED-related,Reviewer_A; Reviewer_B,Excluded at title/abstract stage
+R176,Author Group 176,2022,Graph-Cut Segmentation for Satellite Images #134,IEEE Xplore,Exclude,Review/survey article,Reviewer_A; Reviewer_B,Excluded at title/abstract stage
+R177,Author Group 177,2025,Traditional Crack Detection Benchmark Study #135,Scopus,Exclude,Duplicate,Reviewer_A; Reviewer_B,Excluded at title/abstract stage
+R178,Author Group 178,2014,Wavelet-Based Medical Image Edge Enhancement #136,ScienceDirect,Exclude,Non-English,Reviewer_A; Reviewer_B,Excluded at title/abstract stage
+R179,Author Group 179,2014,Canny Edge Detector Parameter Tuning for Road Scenes #137,Web of Science,Exclude,Pre-2015,Reviewer_A; Reviewer_B,Excluded at title/abstract stage
+R180,Author Group 180,2020,A Survey of Deep Learning for Boundary Detection #138,Google Scholar,Exclude,Insufficient methodological detail,Reviewer_A; Reviewer_B,Excluded at title/abstract stage
+R181,Author Group 181,2023,Hybrid Sobel-Canny for Biomedical Images #139,IEEE Xplore,Exclude,Not HED-related,Reviewer_A; Reviewer_B,Excluded at title/abstract stage
+R182,Author Group 182,2012,GAN-Based Segmentation without Edge Supervision #140,Scopus,Exclude,Review/survey article,Reviewer_A; Reviewer_B,Excluded at title/abstract stage
+R183,Author Group 183,2015,Low-Level Gradient Features for Edge Maps #141,ScienceDirect,Exclude,Duplicate,Reviewer_A; Reviewer_B,Excluded at title/abstract stage
+R184,Author Group 184,2018,Graph-Cut Segmentation for Satellite Images #142,Web of Science,Exclude,Non-English,Reviewer_A; Reviewer_B,Excluded at title/abstract stage
+R185,Author Group 185,2014,Traditional Crack Detection Benchmark Study #143,Google Scholar,Exclude,Pre-2015,Reviewer_A; Reviewer_B,Excluded at title/abstract stage
+R186,Author Group 186,2024,Wavelet-Based Medical Image Edge Enhancement #144,IEEE Xplore,Exclude,Insufficient methodological detail,Reviewer_A; Reviewer_B,Excluded at title/abstract stage
+R187,Author Group 187,2013,Canny Edge Detector Parameter Tuning for Road Scenes #145,Scopus,Exclude,Not HED-related,Reviewer_A; Reviewer_B,Excluded at title/abstract stage
+R188,Author Group 188,2016,A Survey of Deep Learning for Boundary Detection #146,ScienceDirect,Exclude,Review/survey article,Reviewer_A; Reviewer_B,Excluded at title/abstract stage
+R189,Author Group 189,2019,Hybrid Sobel-Canny for Biomedical Images #147,Web of Science,Exclude,Duplicate,Reviewer_A; Reviewer_B,Excluded at title/abstract stage
+R190,Author Group 190,2022,GAN-Based Segmentation without Edge Supervision #148,Google Scholar,Exclude,Non-English,Reviewer_A; Reviewer_B,Excluded at title/abstract stage
+R191,Author Group 191,2014,Low-Level Gradient Features for Edge Maps #149,IEEE Xplore,Exclude,Pre-2015,Reviewer_A; Reviewer_B,Excluded at title/abstract stage
+R192,Author Group 192,2014,Graph-Cut Segmentation for Satellite Images #150,Scopus,Exclude,Insufficient methodological detail,Reviewer_A; Reviewer_B,Excluded at title/abstract stage
+R193,Author Group 193,2017,Traditional Crack Detection Benchmark Study #151,ScienceDirect,Exclude,Not HED-related,Reviewer_A; Reviewer_B,Excluded at title/abstract stage
+R194,Author Group 194,2020,Wavelet-Based Medical Image Edge Enhancement #152,Web of Science,Exclude,Review/survey article,Reviewer_A; Reviewer_B,Excluded at title/abstract stage
+R195,Author Group 195,2023,Canny Edge Detector Parameter Tuning for Road Scenes #153,Google Scholar,Exclude,Duplicate,Reviewer_A; Reviewer_B,Excluded at title/abstract stage
+R196,Author Group 196,2012,A Survey of Deep Learning for Boundary Detection #154,IEEE Xplore,Exclude,Non-English,Reviewer_A; Reviewer_B,Excluded at title/abstract stage
+R197,Author Group 197,2014,Hybrid Sobel-Canny for Biomedical Images #155,Scopus,Exclude,Pre-2015,Reviewer_A; Reviewer_B,Excluded at title/abstract stage
+R198,Author Group 198,2018,GAN-Based Segmentation without Edge Supervision #156,ScienceDirect,Exclude,Insufficient methodological detail,Reviewer_A; Reviewer_B,Excluded at title/abstract stage
+R199,Author Group 199,2021,Low-Level Gradient Features for Edge Maps #157,Web of Science,Exclude,Not HED-related,Reviewer_A; Reviewer_B,Excluded at title/abstract stage
+R200,Author Group 200,2024,Graph-Cut Segmentation for Satellite Images #158,Google Scholar,Exclude,Review/survey article,Reviewer_A; Reviewer_B,Excluded at title/abstract stage

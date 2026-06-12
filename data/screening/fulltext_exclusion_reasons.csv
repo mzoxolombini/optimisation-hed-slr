@@ -1,0 +1,31 @@
+Record_ID,Authors,Year,Title,Exclusion_Reason,PRISMA_Category
+FT001,Candidate Author 1,2016,Candidate HED Study 1,Wrong study type,Wrong study type
+FT002,Candidate Author 2,2017,Candidate HED Study 2,Not using HED backbone,Wrong intervention
+FT003,Candidate Author 3,2018,Candidate HED Study 3,No quantitative edge/segmentation metric,Wrong outcome measure
+FT004,Candidate Author 4,2019,Candidate HED Study 4,Unavailable paywalled full text,Inaccessible full text
+FT005,Candidate Author 5,2020,Candidate HED Study 5,Duplicate of indexed conference version,Duplicate
+FT006,Candidate Author 6,2021,Candidate HED Study 6,Extended abstract with no full paper,Conference abstract only
+FT007,Candidate Author 7,2022,Candidate HED Study 7,Wrong study type,Wrong study type
+FT008,Candidate Author 8,2023,Candidate HED Study 8,Not using HED backbone,Wrong intervention
+FT009,Candidate Author 9,2024,Candidate HED Study 9,No quantitative edge/segmentation metric,Wrong outcome measure
+FT010,Candidate Author 10,2015,Candidate HED Study 10,Unavailable paywalled full text,Inaccessible full text
+FT011,Candidate Author 11,2016,Candidate HED Study 11,Duplicate of indexed conference version,Duplicate
+FT012,Candidate Author 12,2017,Candidate HED Study 12,Extended abstract with no full paper,Conference abstract only
+FT013,Candidate Author 13,2018,Candidate HED Study 13,Wrong study type,Wrong study type
+FT014,Candidate Author 14,2019,Candidate HED Study 14,Not using HED backbone,Wrong intervention
+FT015,Candidate Author 15,2020,Candidate HED Study 15,No quantitative edge/segmentation metric,Wrong outcome measure
+FT016,Candidate Author 16,2021,Candidate HED Study 16,Unavailable paywalled full text,Inaccessible full text
+FT017,Candidate Author 17,2022,Candidate HED Study 17,Duplicate of indexed conference version,Duplicate
+FT018,Candidate Author 18,2023,Candidate HED Study 18,Extended abstract with no full paper,Conference abstract only
+FT019,Candidate Author 19,2024,Candidate HED Study 19,Wrong study type,Wrong study type
+FT020,Candidate Author 20,2015,Candidate HED Study 20,Not using HED backbone,Wrong intervention
+FT021,Candidate Author 21,2016,Candidate HED Study 21,No quantitative edge/segmentation metric,Wrong outcome measure
+FT022,Candidate Author 22,2017,Candidate HED Study 22,Unavailable paywalled full text,Inaccessible full text
+FT023,Candidate Author 23,2018,Candidate HED Study 23,Duplicate of indexed conference version,Duplicate
+FT024,Candidate Author 24,2019,Candidate HED Study 24,Extended abstract with no full paper,Conference abstract only
+FT025,Candidate Author 25,2020,Candidate HED Study 25,Wrong study type,Wrong study type
+FT026,Candidate Author 26,2021,Candidate HED Study 26,Not using HED backbone,Wrong intervention
+FT027,Candidate Author 27,2022,Candidate HED Study 27,No quantitative edge/segmentation metric,Wrong outcome measure
+FT028,Candidate Author 28,2023,Candidate HED Study 28,Unavailable paywalled full text,Inaccessible full text
+FT029,Candidate Author 29,2024,Candidate HED Study 29,Duplicate of indexed conference version,Duplicate
+FT030,Candidate Author 30,2015,Candidate HED Study 30,Extended abstract with no full paper,Conference abstract only
