@@ -28,7 +28,7 @@ The SLR covers:
 optimisation-hed-slr/
 ├── Optimisation_of_HED_SLR.pdf              # Main SLR manuscript
 ├── data/
-│   ├── included_studies.csv        # 42 included studies with extracted metadata
+│   ├── included_studies.csv        # 48 included studies with extracted metadata
 │   ├── quality_assessment.csv      # Quality assessment scoring sheets
 │   ├── search_strings.md           # Per-database Boolean search strings
 │   └── screening/
@@ -43,7 +43,7 @@ optimisation-hed-slr/
 │   ├── bootstrap_confidence_intervals.csv
 │   ├── sensitivity_analysis.csv
 │   └── figures/
-└── hed slr/                        # Full-text PDFs of 42 included studies
+└── hed slr/                        # Full-text PDFs of 48 included studies
 ```
 
 ---
@@ -93,6 +93,7 @@ The `hed slr/` directory contains the full corpus of primary studies reviewed. A
 - Advanced Edge Detection for Noisy SEM Images: A Hybrid Approach for Enhanced Precision
 - Edge Detection in Colored Images Using Parallel CNNs and Social Spider Optimization
 - Innovation in Sea–Sky Line Detection
+- Symmetrization Weighted Binary Cross-Entropy for Human-Consistent Neural Edge Detection
 
 ### Semantic Segmentation
 - HED-UNet: A Multi-Scale Framework for Simultaneous Segmentation and Edge Detection
@@ -111,11 +112,14 @@ The `hed slr/` directory contains the full corpus of primary studies reviewed. A
 - Early Breast Cancer Screening from Thermography via Deep Pre-Trained Edge Detection with Extreme Gradient Boosting
 - A Multi-Scale Hybrid Segmentation and MRMR Feature Selection Approach
 - Multi-Magnification Mask R-CNN and HED
+- Retinal Vessel Segmentation with HED-Enhanced Deeply Supervised Networks
 
 ### Remote Sensing & Geospatial
 - Sea–Land Segmentation Using HED-UNET for Monitoring
 - HA U-Net: Improved Model for Building Extraction from High-Resolution Remote Sensing Imagery
 - Research on Automatic Recognition Method of Artificial Ground Target Based on Improved HED
+- Weakly Supervised Building Footprint Extraction from Aerial Images Using HED
+- HED-Assisted Change Detection in Bi-temporal High-Resolution Remote Sensing Images
 
 ### Industrial Inspection & Crack Detection
 - Automated Cement Fragment Image Segmentation
@@ -139,6 +143,7 @@ The `hed slr/` directory contains the full corpus of primary studies reviewed. A
 ### Other Applications
 - Security Analysis of Digital Image Watermarking
 - Real-Time 3D Scene Understanding
+- Deep-Learning Approach to Grain Boundary Detection in Backscattered Electron Images
 
 ---
 
