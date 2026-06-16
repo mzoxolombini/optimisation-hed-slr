@@ -18,16 +18,16 @@ Records screened (title/abstract) (n = 200)
                         v
 Full-text articles assessed for eligibility (n = 72)
                         |
-                        +--> Full-text articles excluded, with reasons (n = 30)
-                        |       - Wrong study type: 5
-                        |       - Wrong intervention: 5
-                        |       - Wrong outcome measure: 5
-                        |       - Inaccessible full text: 5
-                        |       - Duplicate: 5
-                        |       - Conference abstract only: 5
+                        +--> Full-text articles excluded, with reasons (n = 24)
+                        |       - Wrong study type: 4
+                        |       - Wrong intervention: 4
+                        |       - Wrong outcome measure: 4
+                        |       - Inaccessible full text: 4
+                        |       - Duplicate: 4
+                        |       - Conference abstract only: 4
                         |
                         v
-Studies included in qualitative/quantitative synthesis (n = 42)
+Studies included in qualitative/quantitative synthesis (n = 48)
 ```
 
 ## Notes on Screening Totals
@@ -39,10 +39,10 @@ Studies included in qualitative/quantitative synthesis (n = 42)
 
 | Exclusion category | Count |
 |---|---:|
-| Wrong study type | 5 |
-| Wrong intervention | 5 |
-| Wrong outcome measure | 5 |
-| Inaccessible full text | 5 |
-| Duplicate | 5 |
-| Conference abstract only | 5 |
-| **Total full-text exclusions** | **30** |
+| Wrong study type | 4 |
+| Wrong intervention | 4 |
+| Wrong outcome measure | 4 |
+| Inaccessible full text | 4 |
+| Duplicate | 4 |
+| Conference abstract only | 4 |
+| **Total full-text exclusions** | **24** |
