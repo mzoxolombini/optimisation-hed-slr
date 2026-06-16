@@ -1,1 +1,9 @@
-results/
+# Python bytecode/cache
+__pycache__/
+*.pyc
+
+# Keep generated analysis outputs trackable
+!results/aggregated_statistics.csv
+!results/bootstrap_confidence_intervals.csv
+!results/sensitivity_analysis.csv
+!results/figures/*.png

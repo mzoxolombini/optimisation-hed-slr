@@ -1,6 +1,6 @@
 # Optimisation of Holistically-Nested Edge Detection (HED): A Systematic Literature Review
 
-> **Manuscript:** `SLR_HED___ESWA.pdf`  
+> **Manuscript:** `Optimisation_of_HED_SLR.pdf`  
 > **Target Journal:** *Expert Systems with Applications* (ESWA)
 
 ---
@@ -26,7 +26,7 @@ The SLR covers:
 
 ```
 optimisation-hed-slr/
-├── SLR_HED___ESWA.pdf              # Main SLR manuscript
+├── Optimisation_of_HED_SLR.pdf              # Main SLR manuscript
 ├── data/
 │   ├── included_studies.csv        # 42 included studies with extracted metadata
 │   ├── quality_assessment.csv      # Quality assessment scoring sheets
@@ -175,7 +175,7 @@ python analysis/sensitivity_analysis.py
 
 ## License
 
-The manuscript `SLR_HED___ESWA.pdf` is © the respective authors. The reviewed papers in the `hed slr/` folder are included for research reference purposes only and remain the intellectual property of their respective publishers and authors.
+The manuscript `Optimisation_of_HED_SLR.pdf` is © the respective authors. The reviewed papers in the `hed slr/` folder are included for research reference purposes only and remain the intellectual property of their respective publishers and authors.
 
 ---
 
