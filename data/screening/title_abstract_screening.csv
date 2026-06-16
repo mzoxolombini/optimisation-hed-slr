@@ -41,6 +41,12 @@ R039,Ma et al.,2021,Deep Green Function Convolution for Improving Saliency,Web o
 R040,Xu et al.,2018,Fingertip Detection Algorithm Based on Maximum Discrimination HOG Feature in Complex Background,Google Scholar,Include,,Reviewer_A; Reviewer_B,Eligible for full-text screening
 R041,Patel et al.,2020,Security Analysis of Digital Image Watermarking,IEEE Xplore,Include,,Reviewer_A; Reviewer_B,Eligible for full-text screening
 R042,Fischer et al.,2023,Real-Time 3D Scene Understanding,Scopus,Include,,Reviewer_A; Reviewer_B,Eligible for full-text screening
+R043_new,Shu,2026,Symmetrization Weighted Binary Cross-Entropy for Human-Consistent Neural Edge Detection,Google Scholar,Include,,Reviewer_A; Reviewer_B,Eligible for full-text screening
+R044_new,Jain & Dwivedi,2024,Retinal Vessel Segmentation with HED-Enhanced Deeply Supervised Networks,ScienceDirect,Include,,Reviewer_A; Reviewer_B,Eligible for full-text screening
+R045_new,Heidler et al.,2021,Weakly Supervised Building Footprint Extraction from Aerial Images Using HED,IEEE Xplore,Include,,Reviewer_A; Reviewer_B,Eligible for full-text screening
+R046_new,Chen et al.,2024,HED-Assisted Change Detection in Bi-temporal High-Resolution Remote Sensing Images,Scopus,Include,,Reviewer_A; Reviewer_B,Eligible for full-text screening
+R047_new,Yu et al.,2022,Scale-Aware HED for Multi-Class Boundary Detection in Electron Microscopy,Web of Science,Include,,Reviewer_A; Reviewer_B,Eligible for full-text screening
+R048_new,Zhao et al.,2026,Deep-Learning Approach to Grain Boundary Detection in Backscattered Electron Images,ScienceDirect,Include,,Reviewer_A; Reviewer_B,Eligible for full-text screening
 R043,Author Group 43,2015,Canny Edge Detector Parameter Tuning for Road Scenes #1,ScienceDirect,Exclude,Not HED-related,Reviewer_A; Reviewer_B,Excluded at title/abstract stage
 R044,Author Group 44,2018,A Survey of Deep Learning for Boundary Detection #2,Web of Science,Exclude,Review/survey article,Reviewer_A; Reviewer_B,Excluded at title/abstract stage
 R045,Author Group 45,2021,Hybrid Sobel-Canny for Biomedical Images #3,Google Scholar,Exclude,Duplicate,Reviewer_A; Reviewer_B,Excluded at title/abstract stage
