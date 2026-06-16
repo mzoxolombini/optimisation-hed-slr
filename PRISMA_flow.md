@@ -1,8 +1,8 @@
 # PRISMA Flow Summary
 
 This text-based PRISMA/ROSES-style flow summary is derived from:
-- `/home/runner/work/optimisation-hed-slr/optimisation-hed-slr/data/search_strings.md`
-- `/home/runner/work/optimisation-hed-slr/optimisation-hed-slr/data/screening/fulltext_exclusion_reasons.csv`
+- `data/search_strings.md`
+- `data/screening/fulltext_exclusion_reasons.csv`
 
 ## Flow Diagram (ASCII)
 
@@ -29,6 +29,11 @@ Full-text articles assessed for eligibility (n = 72)
                         v
 Studies included in qualitative/quantitative synthesis (n = 42)
 ```
+
+## Notes on Screening Totals
+
+- The reduction from **2,051** to **204** reflects both **deduplication** and **source filtering** as reported in `data/search_strings.md`.
+- The step from **204** to **200** indicates that four records were removed prior to title/abstract screening during source-filtering cleanup.
 
 ## Full-text Exclusion Reasons
 
